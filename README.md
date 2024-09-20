@@ -23,3 +23,7 @@
 ## 6. Lisensi dan Sumber Terbuka
 - *Linux*: Sumber terbuka dan dapat dimodifikasi.
 - *Windows*: Proprietary, tidak ada akses ke kode sumber.
+
+## 7. Penggunaan dan Distribusi
+- *Linux*: Tersedia dalam berbagai distribusi yang dapat disesuaikan, banyak yang gratis.
+- *Windows*: Berbasis lisensi komersial dengan versi untuk tujuan tertentu (mis. Windows Server).
