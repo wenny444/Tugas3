@@ -27,3 +27,11 @@
 ## 7. Penggunaan dan Distribusi
 - *Linux*: Tersedia dalam berbagai distribusi yang dapat disesuaikan, banyak yang gratis.
 - *Windows*: Berbasis lisensi komersial dengan versi untuk tujuan tertentu (mis. Windows Server).
+
+## 8. Dukungan Perangkat Lunak
+- *Linux:*
+  - Memiliki banyak perangkat lunak open-source.
+  - Dukungan untuk aplikasi komersial mungkin lebih terbatas.
+- *Windows:*
+  - Dukungan luas untuk aplikasi komersial dan perangkat lunak produktivitas.
+  - Sering menjadi pilihan utama di lingkungan bisnis.
